@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on signals and system norms, multiple-input multiple-output
   (MIMO) systems, and singular value decomposition.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-323-principles-of-optimal-control-spring-2008/c90ce4f0a8aa60c9fd5d95ed9fffaa1a_lec15.pdf
+file: /media/courses/16-323-principles-of-optimal-control-spring-2008/c90ce4f0a8aa60c9fd5d95ed9fffaa1a_lec15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Signals and System Norms
 uid: c90ce4f0-a8aa-60c9-fd5d-95ed9fffaa1a

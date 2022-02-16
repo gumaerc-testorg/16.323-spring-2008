@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6e894506-654a-dd52-5bd9-a554fa34866f
 ---
@@ -276,7 +279,7 @@ Question: how well do the large gain and phase margins discussed for LQR (6-29) 
 {{< tdopen >}}
 
 
-Signals and system norms: _H∞_ synthesis, different type of optimal controller
+Signals and system norms: _H{{< sub "∞" >}}_ synthesis, different type of optimal controller
 
 
 {{< tdclose >}}
