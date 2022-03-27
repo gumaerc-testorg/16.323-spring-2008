@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e894506-654a-dd52-5bd9-a554fa34866f
 resourcetype: Document
 title: Nonlinear Optimization
 uid: 4e0b888c-d24d-91c7-7437-6312e5f4b004

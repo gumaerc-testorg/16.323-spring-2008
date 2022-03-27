@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e894506-654a-dd52-5bd9-a554fa34866f
 resourcetype: Document
 title: Calculus of Variations applied to Optimal Control
 uid: 60e12b68-9f23-537c-9de2-15aeffab0753

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e894506-654a-dd52-5bd9-a554fa34866f
 resourcetype: Document
 title: Constrained Optimal Control
 uid: 21f8abcc-6c2b-52e9-6ad8-023c3098b30f

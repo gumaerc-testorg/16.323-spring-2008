@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e894506-654a-dd52-5bd9-a554fa34866f
 resourcetype: Document
 title: Singular Arcs
 uid: 479aff91-67ef-bf0c-d63a-d08ded28301e
