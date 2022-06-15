@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with information
+  on lecture topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Nonlinear optimization: unconstrained nonlinear optimization, line search method
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9 MB]({{< baseurl >}}/resources/lec1))
+({{% resource_link 9202c6f8-ade8-6e46-1020-81d2be569bbb "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +62,7 @@ Penalty/barrier functions are also often used, but will not be discussed here.
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec2))
+({{% resource_link 4e0b888c-d24d-91c7-7437-6312e5f4b004 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ Dynamic programming: principle of optimality, dynamic programming, discrete LQR
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/lec3))
+({{% resource_link 9b1800e1-e79f-3019-0e71-922ad1d49897 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +94,7 @@ HJB equation: differential pressure in continuous time, HJB equation, continuous
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{% resource_link 8db99aee-192f-44ac-6c05-42fc57748703 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +112,7 @@ Most books cover this material well, but Kirk (chapter 4) does a particularly ni
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link fcbd034c-1b9d-7e4e-7962-0fbc2d03c9dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Calculus of variations applied to optimal control
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link 60e12b68-9f23-537c-9de2-15aeffab0753 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +144,7 @@ Numerical solution in MATLAB
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link a56c4666-3540-c551-9e17-bb22759b99aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +162,7 @@ Bryson and Ho, Section 3.5 and Kirk, Section 4.4
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 10f4f33b-6594-5e4e-86a7-53cc74d5f67c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +180,7 @@ Bryson and Ho, section 3.x and Kirk, section 5.3
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link 21f8abcc-6c2b-52e9-6ad8-023c3098b30f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +198,7 @@ Bryson, chapter 8 and Kirk, section 5.6
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{% resource_link 479aff91-67ef-bf0c-d63a-d08ded28301e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +216,7 @@ Bryson, chapter 12 and Gelb, Optimal Estimation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link d53cb1ff-30a4-9af1-8dc8-b61572eeb1a1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +234,7 @@ Kwaknernaak and Sivan, chapters 3.6, 5; Bryson, chapter 14; and Stengel, chapter
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link 2888f2cf-45bc-6855-e670-d77d7652c33a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +254,7 @@ Question: how well do the large gain and phase margins discussed for LQR (6-29) 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec13))
+({{% resource_link 95c38ae2-15bf-980a-6bc8-352dd1e1285b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +270,7 @@ Question: how well do the large gain and phase margins discussed for LQR (6-29) 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link f6903800-81ba-f2a1-c671-229ac7dffb43 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +286,7 @@ Signals and system norms: _H{{< sub "∞" >}}_ synthesis, different type of opti
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link c90ce4f0-a8aa-60c9-fd5d-95ed9fffaa1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +302,7 @@ Model predictive control
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec16))
+({{% resource_link d8ed0f43-c8fb-b7a6-ee46-2942cd1fc511 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
