@@ -5,6 +5,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/479aff9167efbf0c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Singular Arcs
 uid: 479aff91-67ef-bf0c-d63a-d08ded28301e
 ---
 Lecture notes on singular arcs, LTI systems, and nonlinear systems.
-

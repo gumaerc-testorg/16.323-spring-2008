@@ -5,6 +5,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/4e0b888cd24d91c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Nonlinear Optimization
 uid: 4e0b888c-d24d-91c7-7437-6312e5f4b004
 ---
 Lecture notes on constrained nonlinear optimization and Lagrange multipliers.
-

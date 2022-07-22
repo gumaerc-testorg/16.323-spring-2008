@@ -6,6 +6,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/fcbd034c1b9d7e4e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Calculus of Variations
 uid: fcbd034c-1b9d-7e4e-7962-0fbc2d03c9dd
 ---
 Lecture notes on calculus of variations, an alternative approach to solve general optimization problems for continuous systems.
-

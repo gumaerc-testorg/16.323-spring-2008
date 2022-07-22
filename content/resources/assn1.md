@@ -5,6 +5,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/58fd53dac6ec065a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Homework Assignment #1'
 uid: 58fd53da-c6ec-065a-6bea-f9896bcca4f9
 ---
 Homework assignment on optimal control.
-

@@ -5,6 +5,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/95c38ae215bf980a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: LQG Robustness
 uid: 95c38ae2-15bf-980a-6bc8-352dd1e1285b
 ---
 Lecture notes on linear-quadratic Gaussian robustness.
-

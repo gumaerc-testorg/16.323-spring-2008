@@ -5,6 +5,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/2888f2cf45bc6855
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Stochastic Optimal Control
 uid: 2888f2cf-45bc-6855-e670-d77d7652c33a
 ---
 Lecture notes on stochastic optimal control.
-

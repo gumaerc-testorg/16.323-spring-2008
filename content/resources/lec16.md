@@ -6,6 +6,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/d8ed0f43c8fbb7a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Model Predictive Control
 uid: d8ed0f43-c8fb-b7a6-ee46-2942cd1fc511
 ---
 Lecture notes on model predictive control, also known as receding horizon control.
-

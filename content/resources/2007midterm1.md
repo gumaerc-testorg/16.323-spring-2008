@@ -6,6 +6,7 @@ file: /courses/16-323-principles-of-optimal-control-spring-2008/c99dc98f51e4501c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2007 Midterm 1
 uid: c99dc98f-51e4-501c-de1c-9ccd581577ae
 ---
 Midterm exam on optimal control from the 2007 version of the course, provided here for practice.
-
