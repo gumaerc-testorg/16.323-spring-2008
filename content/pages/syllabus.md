@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides course meeting times, objectives, approximate
+  number of lectures per topics, grading criteria, prerequisites, and other polices.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 90eaa276-6102-ef4f-7b62-af0879467f33
 ---
@@ -14,7 +18,7 @@ Objectives
 
 *   Nonlinear optimization – MATLAB implementation
 *   Optimization approaches: dynamic programming, Calculus of Variations
-*   Linear quadratic and _H∞_ compensators – stochastic and deterministic
+*   Linear quadratic and _H{{< sub "∞" >}}_ compensators – stochastic and deterministic
 *   Investigate key basic control concepts and extend to advanced algorithms (MPC)
 *   Will focus on both the technique/approach and the control result
 
@@ -90,7 +94,7 @@ LQR/LQG - stochastic optimization
 3
 {{< tdclose >}}
 {{< tdopen >}}
-_H∞_ and robust control
+_H{{< sub "∞" >}}_ and robust control
 {{< tdclose >}}
 
 {{< trclose >}}
