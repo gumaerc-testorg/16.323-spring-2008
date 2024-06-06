@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on calculus of variations applied to optimal control problems.
 file: /courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf
+file_size: 777301
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

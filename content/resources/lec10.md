@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on singular arcs, LTI systems, and nonlinear systems.
 file: /courses/16-323-principles-of-optimal-control-spring-2008/479aff9167efbf0cd63ad08ded28301e_lec10.pdf
+file_size: 560636
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
