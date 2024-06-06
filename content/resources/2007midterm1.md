@@ -3,6 +3,7 @@ content_type: resource
 description: Midterm exam on optimal control from the 2007 version of the course,
   provided here for practice.
 file: /courses/16-323-principles-of-optimal-control-spring-2008/c99dc98f51e4501cde1c9ccd581577ae_2007midterm1.pdf
+file_size: 131928
 file_type: application/pdf
 learning_resource_types:
 - Exams
