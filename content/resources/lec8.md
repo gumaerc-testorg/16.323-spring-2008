@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on properties of optimal control and point state constraints.
 file: /courses/16-323-principles-of-optimal-control-spring-2008/10f4f33b65945e4e86a753cc74d5f67c_lec8.pdf
+file_size: 311255
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
