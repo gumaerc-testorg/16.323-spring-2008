@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on nonlinear optimization, unconstrained nonlinear optimization,
   and line search methods.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/9202c6f8ade86e46102081d2be569bbb_lec1.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/9202c6f8ade86e46102081d2be569bbb_lec1.pdf
 file_size: 2005434
 file_type: application/pdf
 learning_resource_types:

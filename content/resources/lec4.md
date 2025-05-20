@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on differential pressure in continuous time, the Hamilton-Jacobi-Bellman
   equation, and continuous linear-quadratic regulators.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/8db99aee192f44ac6c0542fc57748703_lec4.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/8db99aee192f44ac6c0542fc57748703_lec4.pdf
 file_size: 869397
 file_type: application/pdf
 learning_resource_types:

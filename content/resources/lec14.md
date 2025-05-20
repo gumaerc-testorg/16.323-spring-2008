@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on feedback control systems, multiple-input multiple-output
   (MIMO) systems, and singular value decomposition.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/f690380081baf2a1c671229ac7dffb43_lec14.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/f690380081baf2a1c671229ac7dffb43_lec14.pdf
 file_size: 313345
 file_type: application/pdf
 learning_resource_types:
