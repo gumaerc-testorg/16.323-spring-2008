@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on constrained optimal control.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/21f8abcc6c2b52e96ad8023c3098b30f_lec9.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/21f8abcc6c2b52e96ad8023c3098b30f_lec9.pdf
 file_size: 876033
 file_type: application/pdf
 learning_resource_types:

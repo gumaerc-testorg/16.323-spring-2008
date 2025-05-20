@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on optimal control.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/647e2070727c3854cc7d3dc40d83e21f_assn2.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/647e2070727c3854cc7d3dc40d83e21f_assn2.pdf
 file_size: 190687
 file_type: application/pdf
 learning_resource_types:
