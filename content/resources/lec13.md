@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on linear-quadratic Gaussian robustness.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/95c38ae215bf980a6bc8352dd1e1285b_lec13.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/95c38ae215bf980a6bc8352dd1e1285b_lec13.pdf
 file_size: 735130
 file_type: application/pdf
 learning_resource_types:

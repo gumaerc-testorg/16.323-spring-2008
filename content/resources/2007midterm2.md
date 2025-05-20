@@ -2,7 +2,7 @@
 content_type: resource
 description: Midterm on optimal control from the 2007 version of the course, provided
   here for practice.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/68f6b80cc3d8d40b40e860eb5847460e_2007midterm2.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/68f6b80cc3d8d40b40e860eb5847460e_2007midterm2.pdf
 file_size: 125743
 file_type: application/pdf
 learning_resource_types:

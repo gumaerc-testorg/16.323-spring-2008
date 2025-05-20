@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on constrained nonlinear optimization and Lagrange multipliers.
-file: /ol-ocw-studio-app/courses/16-323-principles-of-optimal-control-spring-2008/4e0b888cd24d91c774376312e5f4b004_lec2.pdf
+file: /courses/16-323-principles-of-optimal-control-spring-2008/4e0b888cd24d91c774376312e5f4b004_lec2.pdf
 file_size: 1295619
 file_type: application/pdf
 learning_resource_types:
