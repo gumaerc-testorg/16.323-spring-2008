@@ -107,7 +107,7 @@ HJB equation: differential pressure in continuous time, HJB equation, continuous
 
 Calculus of variations
 
-Most books cover this material well, but Kirk (chapter 4) does a particularly nice job. See {{% resource_link "cfcfe001-64f1-41e9-baa9-f80a93b8c75d" "here" %}} for an online reference.
+Most books cover this material well, but Kirk (chapter 4) does a particularly nice job. See [here](http://mathworld.wolfram.com/CalculusofVariations.html) for an online reference.
 
 
 {{< tdclose >}}
